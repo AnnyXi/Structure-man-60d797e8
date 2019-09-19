@@ -1,0 +1,17 @@
+table{
+	text-align:center;
+}
+td{
+	background-color: lightblue;
+}
+th{
+	padding: 10px 20px 20px;
+}
+th[scope="col"] {
+    background-color: gray;
+    color: #fff;
+}
+th[scope="row"] {
+    background-color: gray;
+    color: #fff;
+}
